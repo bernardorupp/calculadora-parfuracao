@@ -41,6 +41,7 @@ function calcular() {
             res.innerHTML =   `<p>A metragem total é ${met.toFixed(2)} m</p>
                               <p>O volume do furo é ${vol.toFixed(4)} m³</p>
                               <p>O volume total é ${voltotal.toFixed(4)} m³</p>
+                              <p>O comprimento carregado é ${l.toFixed(2)} m</p>
                               <p>O volume carregado por furo é ${volcarregado.toFixed(4)} m³</p>
                               <p>O volume carregado total é ${voltotcarreg.toFixed(4)} m³</p>
                               <p>A massa do explosivo é ${massaexp.toFixed(2)} Kg</p>
